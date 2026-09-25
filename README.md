@@ -6,8 +6,8 @@ Sitio web de **SavialoeFresh** — infusiones de aloe vera 100% natural combinad
 
 ## Contenido
 
-- `index.html` — el sitio completo (HTML, CSS y JavaScript en un solo archivo, con el logo incrustado).
-- `assets/` — imágenes originales de la marca (logo, ilustración y folleto) como respaldo.
+- `index.html` — el sitio completo, con el logo.
+- `assets/` — imágenes originales de la marca como respaldo.
 
 ## Ver en local
 
